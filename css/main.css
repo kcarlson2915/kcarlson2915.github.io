@@ -1,3 +1,9 @@
+.img-circle {
+    padding-right: 10px;
+    height: 100px;
+    border-radius: 50%;
+}
+
 body {
     margin: 60px auto;
     width: 70%;
@@ -41,3 +47,4 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
