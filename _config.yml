@@ -1,2 +1,10 @@
+url: "carlsonkevin.com"
+baseurl: ""
+
+title: Kevin Carlson
+description: Software Engineer Personal Website
+
+avatar: "images/ski_photo.jpg"
+
 name: Kevin Carlson
 permalink: /blog/:year/:month/:day/:title
