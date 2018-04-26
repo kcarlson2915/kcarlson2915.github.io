@@ -1,1 +1,0 @@
-This weekend was fleet week in San Francisco. Catching up with friends from Cal and watching the airshow over the bay made for an awesome weekend. Here are some of the shots that I was able to capture of the Blue Angels and other airshow events.

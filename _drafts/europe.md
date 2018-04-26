@@ -1,1 +1,0 @@
-This summer, before I began working, I went to Europe with my friend Kenny. We spent time in Iceland, Copenhagen, and Berlin. Here are some of the photos of our adventures. I cannot wait to continue traveling throughout out the globe.
