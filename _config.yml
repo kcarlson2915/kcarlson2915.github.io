@@ -8,7 +8,3 @@ avatar: "images/ski_photo.jpg"
 
 name: Kevin Carlson
 permalink: /blog/:year/:month/:day/:title
-
-
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
